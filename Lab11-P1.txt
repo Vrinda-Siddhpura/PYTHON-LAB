@@ -1,0 +1,3 @@
+Number Of Lines: 5
+Number Of Words: 5
+Number Of Characters: 25
